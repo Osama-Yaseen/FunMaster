@@ -16,19 +16,19 @@
 - 📊 Score tracking and rewards
 - 🔥 Built with **Flutter & Firebase**
 
+## 📥 Download Fun Master APK
+
+Try **Fun Master** now!  
+➡️ [Download APK (v1.0.0)](https://github.com/osama-yaseen/FunMaster/releases/latest)
+
 ## 🚀 Installation
 
 1. Clone this repository:
    git clone https://github.com/osama-yaseen/FunMaster.git
 
-markdown
-Copy
-Edit 2. Open the project in **VS Code or Android Studio**. 3. Run:
-flutter pub get flutter run
+2. Open the project in **VS Code or Android Studio**.
 
-markdown
-Copy
-Edit
+3. Run: flutter pub get flutter run
 
 ## 📌 Tech Stack
 
