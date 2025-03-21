@@ -1,16 +1,44 @@
-# fun_master
+# 🎮 Fun Master - Flutter Quiz App 🚀
 
-A new Flutter project.
+**Fun Master** is an engaging quiz app built with Flutter. Challenge yourself with fun quizzes and earn points! 🎯
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/home_screen.png" width="300"> 
+<img src="screenshots/checker.png" width="300">
+<img src="screenshots/main.png" width="300">
+<img src="screenshots/roast.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
+## 🔥 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🏆 Fun & interactive quizzes
+- 🎨 Beautiful UI with smooth animations
+- 📊 Score tracking and rewards
+- 🔥 Built with **Flutter & Firebase**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation
+
+1. Clone this repository:
+   git clone https://github.com/osama-yaseen/FunMaster.git
+
+markdown
+Copy
+Edit 2. Open the project in **VS Code or Android Studio**. 3. Run:
+flutter pub get flutter run
+
+markdown
+Copy
+Edit
+
+## 📌 Tech Stack
+
+- **Flutter**
+- **Firebase Authentication**
+- **Firestore Database**
+- **GetX for State Management**
+- **Lottie for Animations**
+
+## 📬 Contact
+
+For any queries, reach out:
+📧 Email: osama.shehdeh.yaseen@gmail.com
